@@ -1,0 +1,26 @@
+{
+  "name": "text-art-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "text-art": "cli"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auttam/text-art-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auttam/text-art-cli/issues"
+  },
+  "homepage": "https://github.com/auttam/text-art-cli#readme",
+  "dependencies": {
+    "@auttam/easycli": "^1.0.5",
+    "figlet": "^1.2.4"
+  }
+}

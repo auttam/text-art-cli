@@ -1,0 +1,41 @@
+{
+  "help": "A text-art demo cli made with EasyCli",
+  "params": [
+    {
+      "name": "text",
+      "help": "text to generate ascii art",
+      "required": true
+    }
+  ],
+  "options": [
+    {
+      "name": "font",
+      "aliases": ["f"],
+      "help": "font to use for drawing ascii art"
+    },
+    {
+      "name": "horizontal-layout",
+      "aliases": ["hl"],
+      "help": "value that indicates the horizontal layout to use",
+      "acceptOnly": [
+        "default",
+        "full",
+        "fitted",
+        "controlled smushing",
+        "universal smushing"
+      ]
+    },
+    {
+      "name": "vertical-layout",
+      "aliases": ["vl"],
+      "help": "value that indicates the vertical layout to use",
+      "acceptOnly": [
+        "default",
+        "full",
+        "fitted",
+        "controlled smushing",
+        "universal smushing"
+      ]
+    }
+  ]
+}
