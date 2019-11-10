@@ -14,7 +14,7 @@
     "url": "git+https://github.com/auttam/text-art-cli.git"
   },
   "author": "Ashish Uttam",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/auttam/text-art-cli/issues"
   },
