@@ -6,11 +6,26 @@ A small utility to generate text art using Figlet
 
 ![](https://raw.githubusercontent.com/auttam/text-art-cli/master/arts/art2.png)
 
-
 ## Usage
 
 ```
-npx text-art <text> [options]
+npm i text-art-cli -g
+text-art <text> [options]
+```
+
+OR
+
+```
+npx text-art-cli <text> [options]
+```
+
+### Parameters
+
+`text` (optional)  
+text to generate art for
+
+```
+npx text-art-cli "Hello World"
 ```
 
 ### Options
