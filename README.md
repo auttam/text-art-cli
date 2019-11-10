@@ -2,10 +2,15 @@
 
 A small utility to generate text art using Figlet
 
+![](https://raw.githubusercontent.com/auttam/text-art-cli/master/arts/art1.png)
+
+![](https://raw.githubusercontent.com/auttam/text-art-cli/master/arts/art2.png)
+
+
 ## Usage
 
 ```
-text-art <text> [options]
+npx text-art <text> [options]
 ```
 
 ### Options
