@@ -1,10 +1,10 @@
 {
   "name": "text-art-cli",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "A small utility to generate text art using Figlet",
   "main": "index.js",
   "bin": {
-    "text-art": "cli"
+    "text-art": "bin/text-art"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/auttam/text-art-cli.git"
   },
-  "author": "",
+  "author": "Ashish Uttam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/auttam/text-art-cli/issues"
