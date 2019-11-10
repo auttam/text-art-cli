@@ -1,6 +1,6 @@
 {
   "name": "text-art-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small utility to generate text art using Figlet",
   "main": "index.js",
   "bin": {
@@ -22,5 +22,11 @@
   "dependencies": {
     "@auttam/easycli": "^1.0.5",
     "figlet": "^1.2.4"
-  }
+  },
+  "keywords": [
+    "figlet",
+    "textart",
+    "text-art",
+    "ascii-art"
+  ]
 }
