@@ -22,7 +22,7 @@ npx text-art-cli <text> [options]
 ### Parameters
 
 `text` (optional)  
-text to generate art for
+text to generate the art for
 
 ```
 npx text-art-cli "Hello World"
@@ -34,7 +34,7 @@ npx text-art-cli "Hello World"
 font to use for drawing ascii art
 
 **-l, --list-fonts**  
-lists available fonts
+lists all the available fonts
 
 **--hl, --horizontal-layout**  
 value that indicates the horizontal layout to use
@@ -42,7 +42,7 @@ value that indicates the horizontal layout to use
 **--vl, --vertical-layout**  
 value that indicates the vertical layout to use
 
-**-h, --helf**  
+**-h, --help**  
 prints help
 
 **-v, --version**  
